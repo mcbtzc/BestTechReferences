@@ -10,8 +10,19 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 
 ========================================================
 
-=== Suggestions by <your name> ========================
+=== Suggestions by Michael Bricker =====================
 
+http://www.w3schools.com/aspnet/webpages_examples.asp
+Has some examples for using C# to make webapps. W3schools is always really helpful. 
 
+http://dev.mysql.com/doc/refman/5.0/en/database-use.html
+Helpful for the databases for those who are using MySQL. 
+Alternately, 
+(quick setup) http://www.wikihow.com/Create-a-Database-in-MySQL
+http://www.w3schools.com/php/php_mysql_intro.asp
+http://www.w3schools.com/php/php_mysql_connect.asp
+http://webcheatsheet.com/php/connect_mysql_database.php
+Might be helpful to the group that is using PHP, or might encourage others to consider hooking PHP into their html. 
+(I used PHP and MySQL in my web design course.)
 
 =======================================================
